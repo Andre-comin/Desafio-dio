@@ -19,3 +19,5 @@ if (quantidadeXp <= 1000) {
 }
 
 console.log(`O jogador ${nomeHeroi} está no nível de ${nivel}.`)
+
+//alteração teste
